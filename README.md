@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Bea 👩🏼‍💻</h1>
-<h3 align="center">A passionate frontend developer 🚀</h3> 
+<h1 align="center">Hi 👋, I'm Bea </h1>
 
 <div align="center"> <img src="https://user-images.githubusercontent.com/81681226/126030632-be22c9d0-f565-459b-bc46-00c9442b65da.png" width=300px heigth=300px> </div>
+<h3 align="center">A passionate frontend developer 🚀</h3> 
 
 - 🔭 I’m currently working on my **Portfolio**
 
