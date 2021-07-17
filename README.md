@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bea </h1>
-
-<div align="center"> <img src="https://user-images.githubusercontent.com/81681226/126030632-be22c9d0-f565-459b-bc46-00c9442b65da.png" width=300px heigth=300px> </div>
-<h3 align="center">A passionate frontend developer 🚀</h3> 
+<div align="center"> <img src="https://user-images.githubusercontent.com/81681226/126034108-442638a3-ee34-4e48-b782-9594cc33f25f.jpg" width=800px heigth=300px> </div>
 
 - 🔭 I’m currently working on my **Portfolio**
 
@@ -24,3 +22,5 @@ Como en rugby, la cooperación es fundamental entre todos para lograr, no sólo 
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhbeatriz&show_icons=true&locale=en" alt="mhbeatriz" /></p>
+
+<div align="center"> <img src="https://user-images.githubusercontent.com/81681226/126030632-be22c9d0-f565-459b-bc46-00c9442b65da.png" width=600px heigth=600px> </div>
