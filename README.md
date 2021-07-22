@@ -19,8 +19,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhbeatriz&show_icons=true&locale=en" alt="mhbeatriz" /></p>
 
-<div> <img src="https://user-images.githubusercontent.com/81681226/126030632-be22c9d0-f565-459b-bc46-00c9442b65da.png" width=600px heigth=600px> 
+<img src="https://user-images.githubusercontent.com/81681226/126030632-be22c9d0-f565-459b-bc46-00c9442b65da.png" width=600px heigth=600px> 
 Especializada en Marketing Social 🌱 y con un MBA. Descubrí con sorpresa una nueva pasión que combina mis capacidades analíticas y creativas: la <strong>programación</strong>, y desde entonces no hay quién me separe del ordenador. 
 Cuando no estoy picando código, estoy haciendo ilustraciones o algún tipo de diseño, eso sí, haga lo que haga la música siempre me acompaña 🎸. Mi pasión por la música, me ha llevado a hacer un canal de videos de divulgación musical, llamado el Alma del Rock 🤟🏻. También soy amante del deporte, he sido jugadora de rugby 🏉 muchos años y eso me ha ayudado a conocer los beneficios de la disciplina, y a superar obstáculos. 
-Como en rugby, la cooperación es fundamental entre todos para lograr, no sólo el éxito, sino que el esfuerzo valga la pena y que todo el mundo gane, por eso creo firmemente en el <strong>trabajo en equipo</strong>.</div>
+Como en rugby, la cooperación es fundamental entre todos para lograr, no sólo el éxito, sino que el esfuerzo valga la pena y que todo el mundo gane, por eso creo firmemente en el <strong>trabajo en equipo</strong>.
 
